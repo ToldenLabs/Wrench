@@ -12,4 +12,4 @@ How to build:
 3. then use the main.py file
 
 License:
-the LICENSE can be found in the LICENSE file.
+it can be found in the LICENSE file.
